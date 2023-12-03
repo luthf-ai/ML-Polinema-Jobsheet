@@ -1,0 +1,10 @@
+path: /home/msi/Dev/ml/jadi_mesin/quiz2/dataset
+train: test
+val: test
+
+#Classes
+names:
+  0: NIK
+  1: Nama
+  2: Text
+  3: Foto
